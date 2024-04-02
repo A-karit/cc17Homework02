@@ -102,7 +102,7 @@ nav {
   height: 65%;
 }
 .round-icon:hover , .text-center:hover {
-  background-color: #ccc;
+  color: #e9e8e8;
 }
 
 main {
@@ -165,8 +165,8 @@ main {
   font-size: 22px;
   cursor: pointer;
 }
-.bin:hover , .sheet:hover {
-  background-color: #ccc;
+.bin:hover {
+  color: #e9e8e8;
 }
 .center-box {
   width: 260px;
@@ -329,4 +329,5 @@ main {
   justify-content: center;
   border-radius: 15px;
   color: aliceblue;
+  cursor: pointer;
 }
